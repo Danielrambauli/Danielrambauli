@@ -42,17 +42,17 @@ Feel free to explore my repositories or reach out for collaboration or internshi
 
 ### 📊 GitHub Stats
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielrambauli&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielrambauli&layout=compact&theme=radical)
 
 ---
 
 ### 🌟 Featured Projects
 
-- 🔗 [**VUT Connect**](https://github.com/YOUR_USERNAME/YOUR_REPO) — JavaScript-based location & messaging app to help students navigate campus and connect in real-time.
+- 🔗 [**VUT Connect**](https://github.com/Danielrambauli/) — JavaScript-based location & messaging app to help students navigate campus and connect in real-time.
 
-- 🔗 [**TaskFlow**](https://github.com/YOUR_USERNAME/YOUR_REPO) — Django-powered task manager for small teams to organize tasks, track progress, and stay productive.
+- 🔗 [**TaskFlow**](https://github.com/Danielrambauli/) — Django-powered task manager for small teams to organize tasks, track progress, and stay productive.
 
 ---
 
