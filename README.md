@@ -6,7 +6,7 @@
 
 🚀 **Current Projects:**
 - 📍 Building a real-time **JavaScript Collaborative Code Editor** designed to help students **navigate campus** and **connect with peers nearby** — combining location-based services with real-time interaction.
-- ✅ Building a **Python-based Task Management System** using Django, designed for small teams to efficiently manage projects, tasks, and collaboration.
+- ✅ Developing a **Python-based Task Management System** using Django, focused on helping small teams efficiently manage projects, deadlines, and collaboration.
 
 🔍 **What I Bring:**
 - A strong problem-solving mindset  
@@ -18,9 +18,6 @@
 
 📫 **Let’s connect!**  
 Feel free to explore my repositories or reach out for collaboration or internship opportunities.
-
-📫 Let's connect and collaborate!
-
 
 ---
 
@@ -40,18 +37,18 @@ Feel free to explore my repositories or reach out for collaboration or internshi
 
 ### 📊 GitHub Stats
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielrambauli&show_icons=true&theme=radical)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielrambauli&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielrambauli&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrambauli&layout=compact&theme=radical)
 
 ---
 
 ### 🌟 Featured Projects
 
-- 🔗 [**VUT Connect**](https://github.com/Danielrambauli/) — JavaScript-based location & messaging app to help students navigate campus and connect in real-time.
+- 🔗 [**VUT Connect**](https://github.com/danielrambauli/vut-connect) — JavaScript-based location & messaging app to help students navigate campus and connect in real-time.
 
-- 🔗 [**TaskFlow**](https://github.com/Danielrambauli/) — Django-powered task manager for small teams to organize tasks, track progress, and stay productive.
+- 🔗 [**TaskFlow**](https://github.com/danielrambauli/taskflow) — Django-powered task manager for small teams to organize tasks, track progress, and stay productive.
 
----
+
 
 
