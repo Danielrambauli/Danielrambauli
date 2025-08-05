@@ -5,8 +5,6 @@
 💡 I enjoy building projects that are not only technically sound but also meaningful, user-focused, and scalable. I'm always exploring new technologies and frameworks to stay up to date with industry standards.
 
 🚀 **Current Projects:**
-
-🚀 **Current Projects:**
 - 📍 Building a real-time **JavaScript Collaborative Code Editor** designed to help students **navigate campus** and **connect with peers nearby** — combining location-based services with real-time interaction.
 - ✅ Building a **Python-based Task Management System** using Django, designed for small teams to efficiently manage projects, tasks, and collaboration.
 
