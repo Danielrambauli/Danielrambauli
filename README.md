@@ -59,4 +59,4 @@ Feel free to explore my repositories or reach out for collaboration or internshi
 - 📈 **Entrepreneurship Programme Certificate** – Online
 - 🌐 **CCNAv7: Introduction to Networks** – Cisco Networking Academy
 - 🔁 **CCNAv7: Switching, Routing, and Wireless Essentials** – Cisco Networking Academy
-- 🖥️ **IT Essentials: PC Hardware and Software** – Cisc
+- 🖥️ **IT Essentials: PC Hardware and Software** – Cisco Networking Academy
