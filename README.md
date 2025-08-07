@@ -49,6 +49,16 @@ Feel free to explore my repositories or reach out for collaboration or internshi
 
 - 🔗 [**TaskFlow**](https://github.com/danielrambauli/taskflow) — Django-powered task manager for small teams to organize tasks, track progress, and stay productive.
 
+---
+
+### 📜 Education & Certifications
+
+- 🎓 **Diploma in Information Technology** – Currently Pursuing (3rd Year)
+- 🏅 **Higher Certificate in Information Technology** – Completed
+- 📈 **Entrepreneurship Programme Certificate** – Online
+- 🌐 **CCNAv7: Introduction to Networks** – Cisco Networking Academy
+- 🔁 **CCNAv7: Switching, Routing, and Wireless Essentials** – Cisco Networking Academy
+- 🖥️ **IT Essentials: PC Hardware and Software** – Cisco Networking Academy
 
 
 
